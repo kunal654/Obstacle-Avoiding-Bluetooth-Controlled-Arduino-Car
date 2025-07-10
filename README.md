@@ -110,13 +110,4 @@ Use apps like **Bluetooth RC Controller** or **Arduino Bluetooth Controller**.
 
 ---
 
-## 📁 Project Structure
-
-📁 Arduino-Car-Project
-│
-├── ArduinoCode.ino
-├── README.md
-└── assets/
-├── circuit-diagram.png
-└── assembled-car.jpg
 
