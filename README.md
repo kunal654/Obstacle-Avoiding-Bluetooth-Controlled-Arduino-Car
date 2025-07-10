@@ -64,7 +64,7 @@ Use apps like **Bluetooth RC Controller** or **Arduino Bluetooth Controller**.
 
 > Below is the wiring diagram for the project. It shows the connection between Arduino, sensors, Bluetooth, motor driver, and motors.
 
-![Circuit Diagram](./assets/circuit-diagram.png)
+![Circuit Diagram](assets/circuit-diagram.png)
 
 > ℹ️ Make sure to connect:
 > - HC-SR04 to pins 9 (Trig) and 10 (Echo)
@@ -79,7 +79,7 @@ Use apps like **Bluetooth RC Controller** or **Arduino Bluetooth Controller**.
 
 > Here's an image of the final assembled robotic car with all components mounted and wired properly.
 
-![Assembled Car](./assets/car.jpg)
+![Assembled Car](assets/car.jpg)
 
 ---
 
