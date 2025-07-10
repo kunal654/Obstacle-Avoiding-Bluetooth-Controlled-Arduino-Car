@@ -79,7 +79,7 @@ Use apps like **Bluetooth RC Controller** or **Arduino Bluetooth Controller**.
 
 > Here's an image of the final assembled robotic car with all components mounted and wired properly.
 
-![Assembled Car](./assets/assembled-car.jpg)
+![Assembled Car](./assets/car.jpg)
 
 ---
 
